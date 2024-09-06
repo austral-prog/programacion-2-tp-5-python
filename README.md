@@ -1,6 +1,6 @@
 # TP 5 Python
 
-**Objetivo**: Se va a crear un programa básico para la gestión de una biblioteca, partiendo del siguiente código.
+**Objetivo**: Se va a crear un programa básico para la gestión de una biblioteca, Lo siguiente es un ejemplo de lo que se va a poder registrar en nuestra biblioteca:
 
 ```python
 books = [
